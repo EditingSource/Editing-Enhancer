@@ -38,3 +38,13 @@
 # How to Use
 # New Method
 # Old Method
+
+---
+
+<div align="center">
+  <div align="center">
+  <img src="https://github.com/EditingSource/TikTok-Enhancer/blob/main/assets/banner.png?raw=true" width="800"/>
+</div>
+<br>
+ <em>© 2026 Editing News Developers - https://editingnews.com</a>
+</div>
