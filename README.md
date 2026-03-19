@@ -4,12 +4,14 @@
 <br>
 
  <a href="https://github.com/kyechan99/capsule-render/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/kyechan99/capsule-render?color=779669" />
+    <img alt="Issues" src="https://img.shields.io/github/issues/kyechan99/capsule-render?color=ffffff" />
   </a>  
 
 <br>
 
 <a href="README.md">English</a> 
+|
+<a href="README.md">Russian</a> 
 </div>
 
 
@@ -18,3 +20,9 @@
 > [!TIP]
 > Supports simple [Generator](https://capsule-render.vercel.app/).
 > However, we recommend reading the README for more detailed adjustments.
+
+<div align="center">
+  <img src="https://lh3.googleusercontent.com/8d8uez1o3yoNuDLHy26BdEjem5mzFmDe4g2tOTcpYlUJVL1z5vfVEoBHNdPGa_IOilZ4iQ8f2TY5jg1C4IP-txVslD8=s1280-w1280-h800" width="300"/>
+  <img src="https://lh3.googleusercontent.com/8d8uez1o3yoNuDLHy26BdEjem5mzFmDe4g2tOTcpYlUJVL1z5vfVEoBHNdPGa_IOilZ4iQ8f2TY5jg1C4IP-txVslD8=s1280-w1280-h800" width="300"/>
+  <img src="https://lh3.googleusercontent.com/8d8uez1o3yoNuDLHy26BdEjem5mzFmDe4g2tOTcpYlUJVL1z5vfVEoBHNdPGa_IOilZ4iQ8f2TY5jg1C4IP-txVslD8=s1280-w1280-h800" width="300"/>
+</div>
