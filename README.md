@@ -1,8 +1,5 @@
-# TikTok-Enhancer
-TikTok Enhancer - Editing News X Re: TikTok
-
 <div align="center">
-  <img src="banner.png" width="600"/>
+ <h1>TikTok Enhancer - Edting News X Re: TikTok</h1>
   <br><br>
   <img src="https://github.com/EditingSource/TikTok-Enhancer/blob/main/assets/banner.png?raw=true"/>
 </div>
