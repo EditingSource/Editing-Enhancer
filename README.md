@@ -34,3 +34,7 @@
 1. [How to Use](#how-to-use)
 2. [New Method](#types)
 3. [Old Method](#color)
+
+# How to Use
+# New Method
+# Old Method
